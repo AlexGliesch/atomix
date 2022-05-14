@@ -2,7 +2,7 @@
 
 This repository holds the source code, instances and detailed result tables for the following paper:
 
-> **Solving atomix with pattern databases**<br>
+> **Solving Atomix with pattern databases**<br>
 > Alex Gliesch, Marcus Ritt (2016) <br>
 > 5th Brazilian Conference on Intelligent Systems (BRACIS) <br>
 > https://doi.org/10.1109/BRACIS.2016.022
@@ -11,7 +11,7 @@ This repository holds the source code, instances and detailed result tables for 
 
 ```bibtex
 @article{GlieschRitt/2016,
-  title        = {Solving atomix with pattern databases},
+  title        = {Solving Atomix with pattern databases},
   author       = {Gliesch, Alex and Ritt, Marcus},
   booktitle    = {2016 5th Brazilian Conference on Intelligent Systems (BRACIS)},
   pages        = {61--66},
