@@ -1,9 +1,9 @@
 # Instances 
 
-The instance input files have the following structure:
+The instance input files have the following structure.
 
-1. On the first line, the instance name is given.
-1. A line with an integer with the number of atoms n.
+1. A line with the instance name.
+1. A line with an integer, denoting the number of atoms n.
 1. A line with two integers, denoting the board width w and the board height h.
 1. h lines with w characters each, denoting the instance board.
 1. A line with 2 integers mw and mh, representing, respectively, the width and height of the molecule. 
